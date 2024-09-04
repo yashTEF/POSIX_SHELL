@@ -1,0 +1,20 @@
+clear
+ls
+echo laskdfj ladkjfsldfjl; fsdkljfal;s
+echo "hello'
+echo "hello
+echo "jsjsjs"
+echo "hello world"
+echo "hello world"
+echo "hello world"
+echo "hello world"
+echo hello
+echo "hello"
+echo hello world
+echo hello
+ls
+cat out.txt
+echo hello>>out.txt
+echo hello >>out.txt
+echo "hello"
+echo "hello"
